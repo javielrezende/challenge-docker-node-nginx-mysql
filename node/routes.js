@@ -1,6 +1,7 @@
 const express = require('express');
 const routes = express.Router();
 const faker = require('faker');
+faker.locale = 'pt_BR';
 
 const connection = require('./connectionDb');
 
