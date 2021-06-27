@@ -1,4 +1,4 @@
-# Desafio GO Full Cycle
+# Desafio Full Cycle
 
 Aplicação básica com Node, Ngnix e MySQL.  
 A aplicação será disponibilizada no endereço: ```localhost:8080```.  
